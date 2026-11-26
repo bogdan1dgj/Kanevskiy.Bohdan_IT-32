@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2026-11-01",
+    "category": "food",
+    "amount": 250.0,
+    "comment": "groceries"
+  },
+  {
+    "date": "2026-11-03",
+    "category": "transport",
+    "amount": 45.0,
+    "comment": "bus fare"
+  },
+  {
+    "date": "2026-11-05",
+    "category": "fun",
+    "amount": 8.0,
+    "comment": "small snack"
+  },
+  {
+    "date": "2026-11-08",
+    "category": "food",
+    "amount": 1200.0,
+    "comment": "monthly groceries"
+  },
+  {
+    "date": "2026-11-10",
+    "category": "transport",
+    "amount": 15.0,
+    "comment": "metro"
+  }
+]
